@@ -12,3 +12,16 @@ body{
     font-size: 12px;
     color: var(--body-text-color);
 }
+
+// reusable styles
+.site-logo{
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    font-size: 1.2em;
+}
+
+.nav-link{
+    color: var(--primary-color) !important;
+}
