@@ -2,6 +2,7 @@
     background-color: var(--secondary-color);
     border:none;
     box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
+    width: 1200px;
 }
 
 input[type = text], input[type = email]{
@@ -21,5 +22,5 @@ input[type = text], input[type = email]{
 }
 
 .subs-text{
-    width:500px;
+    width:500px;        
 }
